@@ -1,4 +1,4 @@
-# uber_pickups_new_york_city
+# Uber pickups in NYC
 
 <b>Project Overview</b>: Uber is the easiest and most affordable way to travel around NYC. This project uses both k-means and DBSCAN clustering algorithms to optimize Uber NYC pickups, therefore optimize the consume and the price to better serve its customers and to grow its business.
 
